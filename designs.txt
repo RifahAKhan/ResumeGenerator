@@ -1,1 +1,29 @@
+prototype 1:
+
+1.First Name
+2.Last Name
+3.Current position<Qualification/role>
+4.Email id
+5.Location
+6.Github Link
+7.LinkedIn Link
+8.Education
+9.Grade
+10.Project 1 name
+11.Project 1 description with tech stack in bold
+12.Project 2 name
+13.Project 2 description with tech stack in bold
+14.Project 3 name
+15.Project 3 description with tech stack in bold
+16.Languages known
+17.Technologies
+18.Developer tools
+19.Achievement 1 name
+20.Achievement 1 description
+21.Achievement 2 name
+22.Achievement 2 description
+23.Certificate 1 name and year
+24.Certificate 2 name and year 
+
+
 
